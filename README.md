@@ -1,0 +1,1 @@
+# quixo-boardgame-ai-design-patterns
